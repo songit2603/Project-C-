@@ -1,0 +1,4 @@
+-Thay đổi chuỗi kết nối trong appconfig
+tải khoản đăng nhập: 1
+mật khẩu: admin
+-link video:https://www.youtube.com/watch?v=Gusgn7sCSfk

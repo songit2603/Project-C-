@@ -1,0 +1,212 @@
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmBanSanPham.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmLoadImage.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmPopUpNoti.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmSanPham.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmThongBao.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmTrangChu.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.ucProgressbar.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\GUI.exe.config
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\GUI.exe
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\GUI.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\BLL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EntityFramework.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\BLL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EntityFramework.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.exe
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\DAL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\DAL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.ucSanPham.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EnvDTE.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\stdole.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmInHoaDon.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmKhachHang.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmNhanVien.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmLoaiSanPham.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmloading.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmDangNhap.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmTest.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\DAL.dll.config
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\GUI.exe.config
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\GUI.exe
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\GUI.pdb
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\BLL.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\DAL.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EntityFramework.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EnvDTE.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\stdole.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\BLL.pdb
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\DAL.pdb
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\DAL.dll.config
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EntityFramework.xml
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmloading.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmBanSanPham.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmDangNhap.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmInHoaDon.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmKhachHang.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmLoadImage.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmLoaiSanPham.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmNhanVien.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmPopUpNoti.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmSanPham.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmThongBao.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmTrangChu.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.frmTest.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.ucProgressbar.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Forms.ucSanPham.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.exe
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\GUI\obj\Debug\GUI.pdb

@@ -1,0 +1,34 @@
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\BLL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\BLL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\DAL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\DAL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.HinhAnhSP.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.Properties.Resource.resources
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\DAL.dll.config
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\BLL.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\BLL.pdb
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\DAL.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\EntityFramework.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\DAL.pdb
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\DAL.dll.config
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\EntityFramework.xml
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.HinhAnhSP.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.Properties.Resource.resources
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B925A64A-0A00-457B-9C21-1B53BD1BFD5E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebDesign, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1484.0\lib\net40\Microsoft.ReportViewer.WebDesign.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.WebForms.150.1484.0\lib\net40\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Color\ThemeColor.cs" />
+    <Compile Include="Forms\frmloading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmloading.Designer.cs">
+      <DependentUpon>frmloading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBanSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBanSanPham.designer.cs">
+      <DependentUpon>frmBanSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmInHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmInHoaDon.Designer.cs">
+      <DependentUpon>frmInHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmKhachHang.Designer.cs">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoadImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoadImage.designer.cs">
+      <DependentUpon>frmLoadImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoaiSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoaiSanPham.Designer.cs">
+      <DependentUpon>frmLoaiSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPopUpNoti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPopUpNoti.designer.cs">
+      <DependentUpon>frmPopUpNoti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSanPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSanPham.designer.cs">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmThongBao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmThongBao.designer.cs">
+      <DependentUpon>frmThongBao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTrangChu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTrangChu.designer.cs">
+      <DependentUpon>frmTrangChu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTest.Designer.cs">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ucProgressbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\ucProgressbar.designer.cs">
+      <DependentUpon>ucProgressbar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ucSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\ucSanPham.Designer.cs">
+      <DependentUpon>ucSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\DataSet1.Designer.cs">
+      <DependentUpon>DataSet1.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Forms\frmloading.resx">
+      <DependentUpon>frmloading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBanSanPham.resx">
+      <DependentUpon>frmBanSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmInHoaDon.resx">
+      <DependentUpon>frmInHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmKhachHang.resx">
+      <DependentUpon>frmKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoadImage.resx">
+      <DependentUpon>frmLoadImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoaiSanPham.resx">
+      <DependentUpon>frmLoaiSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPopUpNoti.resx">
+      <DependentUpon>frmPopUpNoti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSanPham.resx">
+      <DependentUpon>frmSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmThongBao.resx">
+      <DependentUpon>frmThongBao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTrangChu.resx">
+      <DependentUpon>frmTrangChu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTest.resx">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ucProgressbar.resx">
+      <DependentUpon>ucProgressbar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ucSanPham.resx">
+      <DependentUpon>ucSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report\Report1.rdlc" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\10046_1553398741_apextoystore6.png" />
+    <None Include="Report\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Report\DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Report\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\10robottraicay.jpg" />
+    <Content Include="Resources\18b1ace7e1f921a778e8.jpg" />
+    <Content Include="Resources\19-192772_png-file-purchase-order-icon-png %281%29.png" />
+    <None Include="Resources\1xetang.jpg" />
+    <None Include="Resources\2xeduabienhinh.jpg" />
+    <None Include="Resources\3bupbebarbie.jpg" />
+    <None Include="Resources\4bupbeannabelle.jpg" />
+    <None Include="Resources\5lego.jpg" />
+    <Content Include="Resources\6619058-9743.png" />
+    <None Include="Resources\6gundam.png" />
+    <None Include="Resources\7yasuo.jpg" />
+    <None Include="Resources\8robotpacificrim.jpg" />
+    <None Include="Resources\9sieunhangao.jpg" />
+    <Content Include="Resources\banhang_black.png" />
+    <Content Include="Resources\banhang_black1.png" />
+    <Content Include="Resources\banhang_black2.png" />
+    <Content Include="Resources\banhang_blue.png" />
+    <Content Include="Resources\blocks.png" />
+    <Content Include="Resources\box.png" />
+    <Content Include="Resources\box1.png" />
+    <None Include="Resources\box2.png" />
+    <Content Include="Resources\boxes.png" />
+    <Content Include="Resources\check %281%29.png" />
+    <Content Include="Resources\check.png" />
+    <Content Include="Resources\close.png" />
+    <Content Include="Resources\color-circle.png" />
+    <Content Include="Resources\customer-review.png" />
+    <Content Include="Resources\customer-review1.png" />
+    <Content Include="Resources\delete.png" />
+    <Content Include="Resources\dollar.png" />
+    <Content Include="Resources\dollar1.png" />
+    <Content Include="Resources\dollar2.png" />
+    <Content Include="Resources\download %281%29 %281%29.png" />
+    <Content Include="Resources\eco-factory.png" />
+    <Content Include="Resources\eco-factory1.png" />
+    <Content Include="Resources\error-icon-33.png" />
+    <Content Include="Resources\error.png" />
+    <Content Include="Resources\icons8_add_32px.png" />
+    <Content Include="Resources\icons8_add_32px_1.png" />
+    <Content Include="Resources\icons8_bill_40px_1.png" />
+    <Content Include="Resources\icons8_clean_32px.png" />
+    <Content Include="Resources\icons8_close_window_32px.png" />
+    <Content Include="Resources\icons8_close_window_32px_1.png" />
+    <Content Include="Resources\icons8_customer_40px.png" />
+    <None Include="Resources\icons8_customer_40px1.png" />
+    <Content Include="Resources\icons8_leadership_40px.png" />
+    <None Include="Resources\icons8_leadership_40px1.png" />
+    <Content Include="Resources\icons8_minimize_window_32px.png" />
+    <Content Include="Resources\icons8_minimize_window_32px_1.png" />
+    <Content Include="Resources\icons8_next_32px.png" />
+    <Content Include="Resources\icons8_next_32px_5.png" />
+    <Content Include="Resources\icons8_next_32px_51.png" />
+    <None Include="Resources\icons8_next_32px_52.png" />
+    <Content Include="Resources\icons8_no_access_32px.png" />
+    <Content Include="Resources\icons8_no_entry_32px.png" />
+    <Content Include="Resources\icons8_ok_32px.png" />
+    <Content Include="Resources\icons8_pay_32px.png" />
+    <Content Include="Resources\icons8_pay_32px1.png" />
+    <Content Include="Resources\icons8_previous_32px_1.png" />
+    <Content Include="Resources\icons8_previous_32px_11.png" />
+    <None Include="Resources\icons8_previous_32px_12.png" />
+    <Content Include="Resources\icons8_search_24px.png" />
+    <Content Include="Resources\icons8_settings_32px_1.png" />
+    <Content Include="Resources\icons8_settings_40px.png" />
+    <Content Include="Resources\icons8_Show_Left_Side_Panel_32px.png" />
+    <Content Include="Resources\icons8_trash_can_32px.png" />
+    <Content Include="Resources\icons8_trash_can_32px_1.png" />
+    <Content Include="Resources\icons8_warehouse_40px.png" />
+    <None Include="Resources\Image1.bmp" />
+    <Content Include="Resources\images.png" />
+    <Content Include="Resources\info.png" />
+    <Content Include="Resources\inventory %281%29.png" />
+    <Content Include="Resources\inventory %281%291.png" />
+    <Content Include="Resources\inventory.png" />
+    <Content Include="Resources\khachhang_black.png" />
+    <Content Include="Resources\khachhang_black1.png" />
+    <Content Include="Resources\khachhang_blue.png" />
+    <Content Include="Resources\kisspng-computer-icons-home-page-web-page-inicio-5b487900cd00d0.9430642615314762248397 %281%29.jpg" />
+    <Content Include="Resources\loading.png" />
+    <Content Include="Resources\logo_black - Copy.png" />
+    <Content Include="Resources\logo_black - Copy1.png" />
+    <Content Include="Resources\logo_black - Copy2.png" />
+    <None Include="Resources\logo_black - Copy21.png" />
+    <Content Include="Resources\logo_black - Copy3.png" />
+    <Content Include="Resources\logo_blue.png" />
+    <Content Include="Resources\manufacture.png" />
+    <Content Include="Resources\nhanvien_black.png" />
+    <Content Include="Resources\nhanvien_black1.png" />
+    <Content Include="Resources\nhanvien_blue.png" />
+    <Content Include="Resources\order-icon-png-20 %281%29.jpg" />
+    <Content Include="Resources\plus.png" />
+    <Content Include="Resources\plus2.png" />
+    <Content Include="Resources\pngtree-home-icon-graphic-design-template-vector-png-image_358126 %281%29.jpg" />
+    <Content Include="Resources\pngtree-home-icon-graphic-design-template-vector-png-image_358126 %282%29.jpg" />
+    <Content Include="Resources\pngtree-home-icon-graphic-design-template-vector-png-image_358126.jpg" />
+    <Content Include="Resources\refresh.png" />
+    <Content Include="Resources\sanpham_black.png" />
+    <Content Include="Resources\sanpham_black1.png" />
+    <Content Include="Resources\sanpham_blue.png" />
+    <Content Include="Resources\searching-magnifying-glass.png" />
+    <Content Include="Resources\shopping-cart-icon-png-favpng-e5DiMUYLNYaTjdsibphFUCAxC %281%29.jpg" />
+    <Content Include="Resources\stop.png" />
+    <Content Include="Resources\success.gif" />
+    <Content Include="Resources\success.png" />
+    <Content Include="Resources\thanhcong.png" />
+    <Content Include="Resources\thietlap_black.png" />
+    <Content Include="Resources\thietlap_black1.png" />
+    <Content Include="Resources\thietlap_blue.png" />
+    <Content Include="Resources\thongke_black.png" />
+    <Content Include="Resources\thongke_black1.png" />
+    <Content Include="Resources\thongke_blue.png" />
+    <Content Include="Resources\trangchu_black.png" />
+    <Content Include="Resources\trangchu_black1.png" />
+    <Content Include="Resources\trangchu_blue.png" />
+    <Content Include="Resources\TòY %281%29 %281%29.png" />
+    <Content Include="Resources\TòY %281%29.png" />
+    <Content Include="Resources\TòY %282%29.png" />
+    <Content Include="Resources\TòY %283%29 %281%29.png" />
+    <Content Include="Resources\TòY %283%29.png" />
+    <Content Include="Resources\TòY %284%29.png" />
+    <Content Include="Resources\updated.png" />
+    <Content Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{6bdd5ff1-87b8-450d-a602-0123e111c6bb}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{121b164b-9c12-4ad6-867d-5f40190a3ef8}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

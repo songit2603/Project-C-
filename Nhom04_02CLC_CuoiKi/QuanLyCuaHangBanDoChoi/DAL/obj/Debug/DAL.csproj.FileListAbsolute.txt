@@ -1,0 +1,22 @@
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\DAL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\DAL.pdb
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.dll
+C:\Users\Khai\Desktop\T2_LapTrinhWindow\projectREAL\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.pdb
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\DAL.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\DAL.pdb
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\EntityFramework.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\EntityFramework.xml
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.dll
+C:\Users\khaik\Desktop\T2 CONG NGHE PHAN MEM HDT\github\ToyShop\Nhom04_02CLC_CuoiKi\QuanLyCuaHangBanDoChoi\DAL\obj\Debug\DAL.pdb
